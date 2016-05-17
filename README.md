@@ -5,7 +5,7 @@ Home: https://github.com/axiom-data-science/paegan
 
 Package license: GNU General Public License v3 (GPLv3)
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Paegan - The Python CDM for Met/Ocean data
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/paegan-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/paegan-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/paegan-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/paegan-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/paegan-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/paegan-feedstock/branch/master)
